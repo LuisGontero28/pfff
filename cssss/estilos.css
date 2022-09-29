@@ -1,0 +1,19 @@
+.roww {
+    text-align: center; }
+  
+  .contacto45 {
+    text-align: center;
+    margin-top: 40px; }
+  
+  .contacto45:hover {
+    transform: translate(10px);
+    cursor: pointer; }
+  
+  .contactor {
+    width: 600px;
+    text-align: center;
+    margin-top: 10px; }
+  
+  .tamaño-letra2 {
+    font-size: 17px; }
+  
